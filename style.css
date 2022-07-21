@@ -647,8 +647,9 @@ hr {
     .match-btn3 {
         margin-left: 2px;
         border: 1px solid #b0aeae;
-        padding: 15px 60px;
-        text-align: start;
+        padding: 13px 50px;
+
+
 
     }
 
@@ -656,14 +657,14 @@ hr {
     .group-btn2 {
         margin-left: 20px;
         border: 1px solid #b0aeae;
-        padding: 15px 60px;
+        padding: 16px 55px;
         text-align: start;
     }
 
     .blog-btn2,
     .blog-btn3 {
         margin-left: 10px;
-        padding: 20px 70px;
+        padding: 23px 70px;
         text-align: start;
         border: 1px solid #b0aeae;
     }
@@ -735,7 +736,7 @@ hr {
 
     .blog-btn {
         margin-left: 10px;
-        padding: 20px 70px;
+        padding: 20px 83px;
         text-align: start;
     }
 
@@ -752,7 +753,7 @@ hr {
      matches section 
 --------------------------------- */
     .match-btn2 {
-        padding: 15px 60px;
+        padding: 17px 45px;
         text-align: start;
         margin-left: 2px;
     }
@@ -768,9 +769,8 @@ hr {
       group section 
 ---------------------- */
     .group-btn3 {
-        margin-left: 20px;
-
-        padding: 15px 60px;
+        margin-left: 13px;
+        padding: 14px 60px;
         text-align: start;
     }
 
